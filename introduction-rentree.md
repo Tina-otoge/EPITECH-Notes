@@ -25,3 +25,5 @@ Culture informatique
 Ecrits professionnels (2 modules sur le cycle bachelor)
 
 - Fin d'année: 30 Juin 2018
+
+- Asso Taker (relations entreprises): taker@epitech.eu
