@@ -36,5 +36,8 @@
     - Poser des quetions pertinentes = "J'ai compris ça, j'ai essayé ça, le debugger me fait ça, je m'attendais à tel comportement"
 - Parler avec les APEs pour tous les problèmes
 - "C'est dans la plus grosse des merde qu'on se fait les meilleurs potes"
+- Question pertinente de Cola : Les tests de la moulinettes s'effectuent sur le dernier commit et sur la branche master
+- Epidodo et des douches pour dormir à EPITECH, mais rentrez profiter de chez vous autant que possible pour vous reposer
 - Extrêmement gratifiant
+- Pour valider un module il faut un grade supérieure à E, noté de A à E. La piscine rapporte 7 crédits.
 - Adresse des APEs : paris-tech1@epitech.eu
