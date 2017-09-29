@@ -1,0 +1,40 @@
+# Piscine
+- Exercices en anglais
+- Temps pour exercice : 8h42 -> lendemain 23h42
+- Rushs le week-end : Projet de 2 jours en duo aléatoire
+- Bistro-matic (2 dernières semaines) :
+    - 3 parties
+    - Première en solo
+    - Deuxième en duo
+    - Troisième en trio
+- Exercices chaque jour : Ne pas prendre de retard !!
+- Dormir !! (Ne pas se tuer de fatigue !!)
+- Toujours avoir sa carte d'étudiant :
+    - Possibilité d'exclusion du campus
+    - Peut être demandé aléatoirement
+    - Est demandé avant les entretiens
+- Hygiène pendant la piscine :
+    - Se doucher !!!
+    - Sinon ça sent pas bon
+    - Se brosser les dents
+- Hygiène de vie :
+    - Dormir
+    - Se divertir (pas trop bien sûr)
+    - Manger assez régulièrement sainement pour être en forme
+    - Ne pas sauter le petit déjeuner (productivité !!!)
+    - Se mettre en bonnes conditions, être efficace
+    - "*La concentration est la plus importante des compétences*" Tim Cook.
+- Arriver à 9h remise du token
+- Trop de manque de token : invalidation de la piscine
+- Ne pas remettre en question la moulinette
+- Triche : -42 puis invalidation du module
+- Quand on est en PLS, en parler aux APEs, ils sont passés par là également et sont là pour aider
+- "La piscine est produite pour des gens qui n'ont jamais touché un ordinateur"
+- Poser des questions, parler, travailler ensemble
+- Poser des questions **pertinentes**:
+    - "ça marche pas" "help" sera toujours répondu par "nope" ou "man google"
+    - Poser des quetions pertinentes = "J'ai compris ça, j'ai essayé ça, le debugger me fait ça, je m'attendais à tel comportement"
+- Parler avec les APEs pour tous les problèmes
+- "C'est dans la plus grosse des merde qu'on se fait les meilleurs potes"
+- Extrêmement gratifiant
+- Adresse des APEs : paris-tech1@epitech.eu
