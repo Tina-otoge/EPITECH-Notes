@@ -1,0 +1,31 @@
+# Pédagogie EPITECH
+- Profil de sortie :
+    - Informaticien au service de l'entreprise
+    - Créatifs, innovants, experts et communicants
+    - Pas de métier de connaissance
+    - Adaptation, évolution
+- Méthodologie :
+    - Responsabilité
+    - Travail d'équipe
+    - Chercher soi-même
+    - Projets externes
+    - Savoir-être
+    - International, ouverture culturelle / universités étrangère
+- "*Pédagogie active / inductive*" :
+    - Être acteur et moteur de sa propre formation
+    - Des profs qui ne sont pas profs
+    - Pas de cours / TD / TP
+    - Rechercher par soi-même (~~man google~~)
+    - Travail d'équipe, échange avec les autres, débats
+    - Sortir de sa zone de confort et parler
+    - Vaincre la peur d'exprimer ses idées
+    - Se tromper
+    - Essayer, changer
+- Dans le concret :
+    - Réaliser un projet sans avoir aucune base
+    - Essayer et défendre ses idées
+    - Changer de direction
+    - Des notes particulières
+    - Un projet intéressant qui devient un cauchemar
+    - Peur, craine, remise en question
+    - Déni, colère, acceptation, changement
