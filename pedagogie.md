@@ -29,3 +29,12 @@
     - Un projet intéressant qui devient un cauchemar
     - Peur, craine, remise en question
     - Déni, colère, acceptation, changement
+Responsabilités :
+    - Être présent
+    - Ne pas tricher
+    - Se remettre en question
+    - Accepter l'echec
+    - Prendre l'air
+    - Participer (modules, activités, projets)
+    - S'organiser, travailler régulièrement, agencer son temps
+    - Implication dans la vie de l'école
