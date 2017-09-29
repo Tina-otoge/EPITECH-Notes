@@ -38,3 +38,13 @@ Responsabilités :
     - Participer (modules, activités, projets)
     - S'organiser, travailler régulièrement, agencer son temps
     - Implication dans la vie de l'école
+Déroulé d'un projet :
+    - Kick-off
+    - Bootstrap (exos pour mettre sur la voie)
+    - Follow Ups (évaluation avant la fin du projet)
+    - Delivery (rendu)
+    - Review (présentation du projet au jury)
+Validation module :
+    - Acquisition des compétences
+    - Grade : A, B, C, D, Echec
+    - GPA : moyenne des grades
