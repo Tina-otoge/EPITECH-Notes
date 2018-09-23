@@ -27,7 +27,7 @@
     - Changer de direction
     - Des notes particulières
     - Un projet intéressant qui devient un cauchemar
-    - Peur, craine, remise en question
+    - Peur, crainte, remise en question
     - Déni, colère, acceptation, changement
 Responsabilités :
     - Être présent
