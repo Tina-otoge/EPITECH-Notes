@@ -2,7 +2,7 @@
 
 - Apprendre le C avec les 3 semaines de piscine
 - Après la piscine :
-    - Le C est indispensable pour le système UNI, la programmation shell, la programmation élementaire, l'infographie...
+    - Le C est indispensable pour le système UNIX, la programmation shell, la programmation élementaire, l'infographie...
     - Passer en 2e année
 - Pourquoi le C ?
     - Bas niveau
